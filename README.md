@@ -31,10 +31,13 @@ I’m driven by innovation, collaboration, and continuous improvement, with a fo
 ### 🌐 Where to Find Me:  
 [LinkedIn: Juan Carlos Reyes Ramos](https://www.linkedin.com/in/juan-carlos-reyes-ramos-b19245140/) 
 
-### 🛠️ Languages I Use:  
+### 🛠️ Languages & Tools:  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" alt="Excel" width="40" height="40"/>
 </p>
 
 Let’s collaborate on exciting projects! 🚀
