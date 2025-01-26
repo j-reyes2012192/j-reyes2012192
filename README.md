@@ -31,7 +31,7 @@ I’m driven by innovation, collaboration, and continuous improvement, with a fo
 ### 🌐 Where to Find Me:  
 [LinkedIn: Juan Carlos Reyes Ramos](https://www.linkedin.com/in/juan-carlos-reyes-ramos-b19245140/) 
 
-### 🛠️ Lenguajes y Herramientas:
+### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
